@@ -1,0 +1,11 @@
+=== Ride Sharing System: Smalltalk ===
+Driver Maya Chen (D-17), rating 4.9/5, completed 3 rides
+Ride history for Jordan Lee (U-42):
+  - Standard ride R-101: Campus -> Airport, 12.5 miles, fare $28.00
+  - Premium ride R-102: Downtown -> Museum, 6.0 miles, fare $28.50
+  - Standard ride R-103: Library -> Station, 4.25 miles, fare $11.50
+
+Polymorphic fare calculation:
+  Standard R-101 = $28.00
+  Premium R-102 = $28.50
+  Standard R-103 = $11.50
