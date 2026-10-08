@@ -16,3 +16,10 @@ Open Pharo or Squeak, file in `smalltalk/RideSharing.st`, and evaluate the demon
 ## Repository link
 
 https://github.com/siddharth2170/ride-sharing-system
+
+## Statistics programming paradigms assignment
+
+The [`statistics-paradigms`](statistics-paradigms) folder contains procedural
+C, functional OCaml, and object-oriented Python implementations of mean,
+median, and mode calculations. Its `deliverables` folder contains the APA 7
+report with code and sample-output screenshots.

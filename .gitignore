@@ -3,3 +3,5 @@ ride_sharing
 .DS_Store
 qa-render/
 qa-render-final/
+__pycache__/
+*.pyc
